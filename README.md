@@ -24,18 +24,21 @@ vercel-cli-skill-monorepo-check/
 - **Vercel Project**: `nextjs-app-monorepo`
 - **Custom Environment**: `dev` (preview type)
 - **Framework**: Next.js 15 with TypeScript
+- **Live URL**: https://nextjs-app-monorepo-ltv3g1mcd-jsee.vercel.app
 
 ### 2. Vite App
 - **Location**: `apps/vite-app/`
 - **Vercel Project**: `vite-app-monorepo`
 - **Custom Environment**: `dev` (preview type)
 - **Framework**: Vite with React 18 and TypeScript
+- **Live URL**: https://vite-app-monorepo.vercel.app
 
 ### 3. Express API
 - **Location**: `apps/express-api/`
 - **Vercel Project**: `express-api-monorepo`
 - **Custom Environment**: `dev` (preview type)
 - **Framework**: Express with TypeScript (deployed as Vercel serverless functions)
+- **Live URL**: https://express-api-monorepo-gguk99ppi-jsee.vercel.app
 
 ## Development
 
