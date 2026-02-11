@@ -1,4 +1,3 @@
 {
-  "buildCommand": "cd ../.. && pnpm turbo build --filter=vite-app",
   "outputDirectory": "dist"
 }

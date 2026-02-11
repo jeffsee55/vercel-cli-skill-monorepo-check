@@ -1,4 +1,3 @@
 {
-  "buildCommand": "cd ../.. && pnpm turbo build --filter=express-api",
   "rewrites": [{ "source": "/(.*)", "destination": "/api" }]
 }
