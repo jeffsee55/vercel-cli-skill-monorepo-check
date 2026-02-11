@@ -24,7 +24,7 @@ vercel-cli-skill-monorepo-check/
 - **Vercel Project**: `nextjs-app-monorepo`
 - **Custom Environment**: `dev` (preview type)
 - **Framework**: Next.js 15 with TypeScript
-- **Live URL**: https://nextjs-app-monorepo-ltv3g1mcd-jsee.vercel.app
+- **Live URL**: https://nextjs-app-monorepo.vercel.app
 
 ### 2. Vite App
 - **Location**: `apps/vite-app/`
