@@ -1,4 +1,1 @@
-{
-  "buildCommand": "cd ../.. && pnpm turbo build --filter=nextjs-app",
-  "outputDirectory": ".next"
-}
+{}
